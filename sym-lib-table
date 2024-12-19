@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AE01.12.42.100-rescue")(type "KiCad")(uri "C:/AE/LTC4060/pcb/AE01.12.42.100-rescue.kicad_sym")(options "")(descr ""))
+)
